@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Размеры отступов -->
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_space_size">20dp</dimen>
+
+    <!-- Размеры шрифтов -->
+    <dimen name="activity_ms_text_view">20sp</dimen>
+    <dimen name="activity_bs_title_text_view">32sp</dimen>
+</resources>
+
+<!--
+dp означает Density-independent Pixels - абстрактная единица привязанная к физической плотности экрана.
+Эта единица соответствует одному пикселю при плотности экрана в 160 точек на дюйм.
+Эта единица позволяет приложениям выглядеть одинаково на разных экранах и разрешениях.
+-->
